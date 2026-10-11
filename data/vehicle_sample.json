@@ -1,0 +1,10 @@
+{
+    "event_id": "VEH000001",
+    "vehicle_id": "VH018",
+    "timestamp": "2026-09-01T10:15:32",
+    "latitude": 28.6139,
+    "longitude": 77.2090,
+    "speed_kmph": 54.2,
+    "status": "IN_TRANSIT",
+    "route_id": "RT_DEL_JAI_01"
+}
